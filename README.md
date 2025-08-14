@@ -2,6 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Imasha+Shonali;"
         alt="Headline" />
     <br />
+    <div id="user-content-toc">
+        <ul>
+            <summary><h2 style="display: inline-block">Social Media</h2></summary>
+        </ul>
+        <a href="https://www.tiktok.com/@byte_bunny1?_t=ZS-8yrdEoHmEUr&_r=1">
+            <img src="https://cdn-icons-png.flaticon.com/128/15713/15713399.png" alt="tikTok" width="50"></a>
+    </div>
+      <br />
     <div>
         <td>
             <img
